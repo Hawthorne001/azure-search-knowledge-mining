@@ -4,6 +4,6 @@ itsdangerous==0.24
 Jinja2==2.11.3
 MarkupSafe==1.0
 Werkzeug==3.0.1
-nltk==3.6.6
+nltk==3.8.2
 spacy==2.1.4
 pandas==0.24.2
