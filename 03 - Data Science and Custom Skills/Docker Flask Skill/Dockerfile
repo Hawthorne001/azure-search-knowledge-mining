@@ -1,4 +1,4 @@
-FROM python:3.5-slim
+FROM python:3.13.2-slim
 RUN apt-get update && apt-get install -y python3-pip
 COPY . /storage-emulator
 WORKDIR /storage-emulator
